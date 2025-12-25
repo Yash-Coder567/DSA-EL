@@ -1,0 +1,14 @@
+# Ignore documentation and readme files
+*.md
+README.md
+PROJECT_REPORT.md
+
+# Ignore any remaining C source files
+*.c
+*.h
+Makefile
+
+# Ignore alternative lock files
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
